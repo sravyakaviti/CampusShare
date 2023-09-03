@@ -1,0 +1,17 @@
+$lightGreen: #b9e7e7;
+.app{
+    .container{
+
+
+        //LOGIN and Register
+        .auth{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: $lightGreen;
+        }
+
+    }
+}
